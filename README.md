@@ -1,16 +1,15 @@
-## N주차
+## 8주차
 
 ### 기간
 
-YYYY.MM.DD - YYYY.MM.DD
+2025.08.13 - 2025.08.20
 
 ### 문제
 
-1. [문제명](링크)
-2. [문제명](링크)
-3. [문제명](링크)
-4. [문제명](링크)
-5. [문제명](링크)
+1. [Jump Game](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/807/)
+2. [Unique Paths](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/808/)
+3. [Coin Change](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/809/)
+4. [Longest Increasing Subsequence](https://leetcode.com/explore/interview/card/top-interview-questions-medium/111/dynamic-programming/810/)
 
 ### 규칙
 
